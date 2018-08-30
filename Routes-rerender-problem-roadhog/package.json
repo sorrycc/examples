@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "react": "^16.4.2",
+    "react-create-hoc": "^1.0.0",
+    "react-dom": "^16.4.2",
+    "react-router-dom": "^4.3.1"
+  }
+}
