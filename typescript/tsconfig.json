@@ -11,13 +11,6 @@
     "paths": {
       "@/*": ["src/*"]
     },
-    "allowSyntheticDefaultImports": true,
-    "include": [
-      "src/**/*.ts",
-      "src/**/*.tsx"
-    ],
-    "exclude": [
-      "node_modules"
-    ]
+    "allowSyntheticDefaultImports": true
   }
 }
